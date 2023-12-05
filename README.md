@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ashishk2323@outlook.com**
 
-- 📄 Know about my experiences [https://nextlevel.app/user/xuanoink](https://nextlevel.app/user/xuanoink)
+- 📄 Know about my experiences [https://ashishkumar1502.github.io/portfolio/](https://ashishkumar1502.github.io/portfolio/)
 
 - ⚡ Fun fact **I am Funny**
 
