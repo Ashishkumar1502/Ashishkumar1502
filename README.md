@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge" alt="ashishk93449907" /></a> </p>
 
-- 🔭 I’m currently working on [Foody Zone](https://github.com/Ashishkumar1502/Foody-Zone/tree/main/React-10-Projects-project-4-starter)[CookR-Recipe](https://ashishkumar1502.github.io/CookR-Recipe-app/)
+- 🔭 I’m currently working on [Foody Zone](https://github.com/Ashishkumar1502/Foody-Zone/tree/main/React-10-Projects-project-4-starter) || [CookR-Recipe](https://ashishkumar1502.github.io/CookR-Recipe-app/)
 
 - 🌱 I’m currently learning **React,Figma.**
 
